@@ -1,0 +1,51 @@
+
+*{
+	/*border:1px solid red;*/
+}
+
+.wrapper{
+	background-image:url();
+
+}
+
+.skills{
+	margin-top:10px;
+}
+
+.skill-title{
+    float: left;
+    width: 13%;
+    font-size: 150%;
+}
+
+.skills-list {
+    width: 23%;
+    float: left;
+    font-size: 112%;
+    margin-left: 18%;
+}
+
+.skills-list li{
+	margin-bottom:8%;
+}
+
+.qualification-title{
+margin-top:10px;
+}
+
+.qualification-head{
+    float: left;
+    width:20%;
+    font-size: 150%;
+}
+
+.qualification-list {
+    width: 57%;
+    float: left;
+    font-size: 112%;
+    margin-left: 11%;
+}
+
+.qualification-list li{
+	margin-bottom:8%;
+}
