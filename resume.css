@@ -205,10 +205,6 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-.project-list a {
-    color: black;
-}
-
 .project-list a:hover {
     text-decoration: none;
 }
