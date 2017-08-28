@@ -153,6 +153,32 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+.tools {
+    margin-top: 10px;
+}
+
+.tools-title {
+    float: left;
+    width: 13%;
+    font-size: 175%;
+    margin-top: 3%;
+    font-size: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.tools-list {
+    width: 69%;
+    float: left;
+    font-size: 112%;
+    margin-left: 18%;
+    margin-top: 3%;
+}
+
+.tools-list li {
+    margin-bottom: 5%;
+    font-family: 'Raleway', sans-serif;
+}
+
 .skills {
     margin-top: 10px;
 }
